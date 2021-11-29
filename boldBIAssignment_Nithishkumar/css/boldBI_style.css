@@ -1,0 +1,133 @@
+.li
+{
+    display: inline-block;
+}
+
+
+
+.two{
+    padding:15px;
+    background-image:url();
+    height:fit-content;
+}
+.first:hover{
+    display: inline;
+    margin: 0;
+    padding: 0%;
+
+}
+
+
+#class{
+    width:600px;
+    float:left;
+    margin-right:100px;  
+}
+#id2{
+    border: 1px solid transparent;
+    width:600px;
+    float:left;
+    margin-right:50px;
+}
+
+#id3
+{
+   text-align: center;
+}
+input{
+    width: 300px;
+    height: 30px;
+}
+
+.float{
+    clear:left;
+}
+h1{ 
+    text-align: center;
+}
+.three{
+   width:30%;
+   float:left;
+}
+.bold
+{
+    width:1500px;
+    margin:0 auto;
+}
+.addr{
+    width:30%;
+    float:left;
+}
+.addr{
+    border:2px solid black;
+    min-width:30px;
+    max-height: 70%;
+    padding: 10px;
+    margin-right:10px;
+}
+.four
+{
+    text-align: center;
+}
+.five{
+    width: 100%;
+}
+.para1{
+    float:left;
+    margin-left: 4px;
+    width: 30%;
+}
+.para2{
+    float:left;
+    margin-left: 4px;
+    width:20%;
+}
+.six{
+    text-align: center;
+}
+#six{
+    color:#FF6034;
+    font:14px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#id3{
+    background-color:#FF6034; 
+}
+#color{
+    text-decoration-color: #FF6034;
+}
+#chat{
+    position: fixed;
+}
+
+
+#div
+{
+margin: auto;
+}
+.addr{
+    float:left;
+    border: 2px 2px;
+}
+.addr1{
+    float:left;
+    margin: auto;
+}
+.addr2{
+    float:left;
+}
+.addr3{
+    float:left;
+}
+.addr4{
+    float:left;
+}
+#seven
+{
+    float:left;
+    margin-left: 20px;
+}
+#eight
+{
+    float:left;
+}
